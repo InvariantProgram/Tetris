@@ -1,5 +1,5 @@
 package BackEnd;
 
-public class LightBlue implements Tetrimino {
+public class LightBlue extends Tetrimino {
 
 }

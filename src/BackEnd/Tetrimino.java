@@ -1,5 +1,7 @@
 package BackEnd;
 
-public interface Tetrimino {
+public abstract class Tetrimino {
+    private int[] position;
+
 
 }
