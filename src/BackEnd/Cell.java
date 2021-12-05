@@ -1,4 +1,4 @@
-package BackEnd;
+package src.BackEnd;
 
 import java.awt.*;
 
