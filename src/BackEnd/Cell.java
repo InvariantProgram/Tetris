@@ -3,11 +3,13 @@ package BackEnd;
 import java.awt.*;
 
 public class Cell {
-    int[] position;
+    private int x;
+    private int y;
     Color color;
 
     public Cell(int[] position, Color color) {
-        this.position = position;
+        x = position[0];
+        y = position[1];
         this.color = color;
     }
 }
